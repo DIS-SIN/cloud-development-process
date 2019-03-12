@@ -22,7 +22,7 @@ The process begins with requirements from users, product owners, stakeholder and
 The backlog is periodically reviewed and stories are selected for implementation. The work on implementing the stories may be done in sprints or in a continuous delivery model.
 
 # User Stories and Design Documents
-User stories form the basis for any work done on the project. User stories capture requirements in a very simple way. They are an expression of a user’s need in the form “As a user I would like to <insert problem statement>”. 
+User stories form the basis for any work done on the project. User stories capture requirements in a very simple way. They are an expression of a user’s need in the form “As a user I would like to [insert problem statement]”. 
 
 Depending on the scope of a user story, an accompanying design document may be written. The design document explains what will be achieved, i.e. the goal of the work, possible options for implementation, options for the UI/UX and defines a set of tests to ensure that the goal was achieved.
 
