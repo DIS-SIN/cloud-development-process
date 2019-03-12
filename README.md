@@ -1,3 +1,4 @@
+![DA-AN-Logo](images/da-an-logo.png)
 # Software Development and Release Process
 
 Version 1.0
@@ -37,6 +38,7 @@ TDD goes hand in hand with the story development where you define your major acc
 **Pro Tip:** While you are building your feature you may create “scaffolding” tests that test particular internal aspects of the feature. Once development is complete you can delete these scaffolding tests leaving the core tests which ensure that the feature is fulfilling its contract with the system. By removing the scaffolding test you keep your test suite from ballooning with tests that are no necessary to ensure the proper functioning of the system.
 
 # Git Workflow 
+![Git Branching Workflow](images/git-branches-cd.png)
 
 The Git workflow is based on the premise that changes to the source code are made on development branches that are then merged into the master branch before being, in turn, merged or cherry picked onto a release branch for deployment. 
 
