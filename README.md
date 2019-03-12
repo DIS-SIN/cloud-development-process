@@ -1,7 +1,7 @@
 ![DA-AN-Logo](images/da-an-logo.png)
 # Software Development and Release Process
 
-Version 1.0
+Version 0.1
 	
 
 # Introduction
