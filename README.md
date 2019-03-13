@@ -1,9 +1,7 @@
-![DA-AN-Logo](images/da-an-logo.png)
-# Software Development and Release Process
+# CSPS Software Development and Release Process
 
 Version 0.1
 	
-
 # Introduction
 This document is a brief overview of the cloud based software development and release process. It is an agile process with a focus on rapid and consistent delivery of working software.
 
